@@ -32,6 +32,7 @@ Pod::Spec.new do |s|
     s.cocoapods_version = '>= 1.4.0'
     s.swift_version = '4.0'
     s.ios.deployment_target = '8.0'
+    s.tvos.deployment_target = '8.0'
     s.static_framework = true
     s.dependency 'RxSwift', '~> 4'
     s.dependency 'RxCocoa', '~> 4'
