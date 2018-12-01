@@ -26,7 +26,7 @@ Pod::Spec.new do |s|
     # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
     s.license          = { :type => 'MIT', :file => 'LICENSE' }
     s.author           = { 'Arnaud Dorgans' => 'arnaud.dorgans@gmail.com' }
-    s.source           = { :git => 'https://github.com/RxSwiftCommunity/RxFirebase.git', :tag => s.version.to_s }
+    s.source           = { :git => 'https://github.com/Abdallah-Shaheen/RxFirebase.git', :tag => s.version.to_s }
     # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
     
     s.cocoapods_version = '>= 1.4.0'
